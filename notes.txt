@@ -1,0 +1,7 @@
+git init - to initialize a new git project with
+
+git add . - to add all folders in our project to git local repo
+    
+git commit -m 'initial commit' - this is used to tell git what changes were/ is ben made
+
+git remote add origin https://github.com/Rienee/intro-to-github.git -this tells git the respiratory 
